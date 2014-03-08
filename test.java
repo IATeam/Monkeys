@@ -9,4 +9,7 @@ class Untitled {
 	public function a(){
 
 	}
+	public function B(){
+
+	}
 }
