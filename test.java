@@ -6,4 +6,7 @@ class Untitled {
 		HIKKIKDLDF
 		KimBumBum
 	}
+	public function a(){
+
+	}
 }
