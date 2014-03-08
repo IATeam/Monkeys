@@ -4,6 +4,8 @@ class Untitled {
 		asdfasdfsdf
 		asdasd
 		HIKKIKDLDF
-		yang here
+<<<<<<< HEAD
+		dfdf
+>>>>>>> FETCH_HEAD
 	}
 }
